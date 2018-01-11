@@ -1,10 +1,10 @@
-SatellaWave
+SatellaWave Debug Mode
 ========
 
-Satellaview Server Manager
+Satellaview Server Manager - This is a custom debug dev version for debug purposes
 Features:
 - Export as BSX*-*.bin (bsnes-plus and snes9x)
-- Online Server Management (not yet)
+- Online Server Management (check if Luigiblood updated it to add this. This is a debug version of 0.3.1)
 
 TODO:
 - Set up BS-X Channels
