@@ -42,7 +42,16 @@ namespace SatellaWave
             "Celebrity House",
             "Private House",
             "Telephone Booth",
-            "Sewerage (Shop)"
+            "Sewerage (Shop)",
+            "Unused (Do not use!)",
+            "Unused (Crashes)",
+            "Unused (Crashes)",
+            "Home",
+            "Hydrant",
+            "Troublesome Tree",
+            "Fountain",
+            "Train Station",
+            "Ocean Shore"
         };
 
         public static readonly string[] peopleList =
